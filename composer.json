@@ -1,5 +1,5 @@
 {
-  "name": "magepow/customer-session",
+  "name": "magepow/customersession",
   "description": "Help you able to get customer session data when varnish cache is enable.",
   "type": "magento2-module",
   "license": [

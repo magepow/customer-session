@@ -7,7 +7,7 @@ In Magento 2, we can't get customer session from \Magento\Customer\Model\Session
 Run the following command in Magento 2 root folder:
 
 ```
-composer require magepow/customer-session
+composer require magepow/customersession
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy -f
 ```

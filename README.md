@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 CustomerSession Extension Free
 In Magento 2, we can't get customer session from \Magento\Customer\Model\Session when varnish cache is enable so we use \Magento\Framework\App\Http\Context instead. But by default, \Magento\Framework\App\Http\Context only gives the value of customer_group and customer_logged_in.
 **CustomerSession extension free by Magepow** allows you to get more than just customer_group and customer_logged_in is customer id, name, email and other customer attributes if set.
